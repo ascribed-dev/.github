@@ -27,3 +27,5 @@ Then [Getting started](https://ascribed-dev.com/docs/getting-started/).
 | [homebrew-tap](https://github.com/ascribed-dev/homebrew-tap) | The formula for `brew install ascribed-dev/tap/ascribe` |
 
 Ascribe is before 1.0, so what it writes and what it accepts can still change between releases.
+
+Ascribe is made by [Bryo Studio](https://bryostudio.com).
